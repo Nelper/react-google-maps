@@ -67,6 +67,6 @@
     "react": "^0.14.0-beta3"
   },
   "peerDependencies": {
-    "react": "^0.14.0-beta3"
+    "react": "^0.14.0-rc1 || ^0.14.0"
   }
 }
